@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React,tailwind css, MERN stack**
 
-- 👨‍💻 All of my projects are available at [https://myportspace.netlify.app/](https://myportspace.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://myportspace.netlify.app/](https://portspace.netlify.app/)
 
 - 📫 How to reach me **ilamathi0005@gmail.com**
 
